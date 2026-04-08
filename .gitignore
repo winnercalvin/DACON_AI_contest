@@ -1,0 +1,20 @@
+# Model weights
+*.pth
+*.pt
+*.ckpt
+
+# Submissions
+*.csv
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# Data (large files - not tracked)
+opens/
+data/
+
+# Misc
+.DS_Store
+*.ipynb_checkpoints/
